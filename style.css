@@ -1,6 +1,6 @@
 body {
     overflow: hidden;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(247, 247, 242);
     padding: 0;
     margin: 0;
 }
@@ -8,7 +8,7 @@ body {
 h1{
     margin:auto;
     font-family: "Comic Sans MS";
-    color:white;
+    color:rgb(199, 235, 196);
     font-size: 75px;
     text-align:center;
 }
