@@ -12,6 +12,12 @@ h1{
     font-size: 75px;
     text-align:center;
 }
+h2{
+    margin:auto;
+    font-family: "Comic Sans MS";
+    color:rgb(199, 235, 196);
+    font-size: 40px;
+}
 .topnav {
     overflow: hidden;
     background-color: #e9e9e9;
