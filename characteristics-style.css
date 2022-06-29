@@ -1,0 +1,42 @@
+body {
+    overflow: hidden;
+    background-color: rgb(73, 73, 73);
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    margin:auto;
+    font-family: "Trebuchet MS";
+    color:white;
+    font-size: 6vw;
+    text-align:center;
+    background-color: black;
+}
+
+.LAN-content{
+    margin:25px;
+    background-color: rgb(107, 107, 107);
+    position:absolute;
+    width:50%;
+}
+
+.LAN{
+    display:flex;
+    margin:25px;
+    position:absolute;
+    left:50%;
+    justify-content:space-around;
+}
+
+#LAN-text{
+    margin:10px;
+    font-family: "Trebuchet MS";
+    color:white;
+    font-size: 2.5vw;
+    text-align:center;
+}
+
+#image{
+    width:45vw;
+}
